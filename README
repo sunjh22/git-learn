@@ -1,0 +1,7 @@
+This is a git learning notebook
+
+$ git config --global user.name ""
+$ git config --global user.email ""
+$ git init
+$ git status
+
