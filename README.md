@@ -15,3 +15,4 @@ This is a git learning notebook
 	$ git remote add origin git@github.com:sunjh22/git-learn.git
 	$ git push origin master
 	$ git clone
+	$ git pull origin master
