@@ -16,3 +16,4 @@ This is a git learning notebook
 	$ git push origin master
 	$ git clone
 	$ git pull origin master
+	$ git checkout -- README.md
