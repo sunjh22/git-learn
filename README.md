@@ -22,3 +22,4 @@ This is a git learning notebook
 	$ git commit --amend
 	$ git branch readme-changes
 	$ git checkout readme-changes
+	$ git merge readme-changes
