@@ -10,3 +10,6 @@ $ git add README
 $ git commit -a
 $ git diff
 $ git log
+$ git reset HEAD README.md
+$ ssh-keygen -b 2048
+$ git remote add git@github.com:sunjh22/git-learn.git
