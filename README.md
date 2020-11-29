@@ -17,3 +17,8 @@ This is a git learning notebook
 	$ git clone
 	$ git pull origin master
 	$ git checkout -- README.md
+	$ git stash
+	$ git stash pop
+	$ git commit --amend
+	$ git branch readme-changes
+	$ git checkout readme-changes
