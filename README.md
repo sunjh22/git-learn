@@ -23,3 +23,6 @@ This is a git learning notebook
 	$ git branch readme-changes
 	$ git checkout readme-changes
 	$ git merge readme-changes
+	$ git log --pretty=oneline --abbrev-commit --graph --branches
+	$ git branch --all
+	$ git push origin readme-changes
