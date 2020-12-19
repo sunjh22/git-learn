@@ -12,6 +12,7 @@ This is a git learning notebook
 	$ git log
 	$ git reset HEAD README.md
 	$ ssh-keygen -b 2048
+	$ ssh -T git@github.com
 	$ git remote add origin git@github.com:sunjh22/git-learn.git
 	$ git push origin master
 	$ git clone
